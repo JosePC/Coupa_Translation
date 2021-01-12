@@ -1,0 +1,164 @@
+DataId,PagePath,WarningType,Message
+9e9541fac8e2a8bcf07ba66291528ec4,Support/Docs/BSM_Platform/Core/Announcements_and_General_Info,PageCreationConflictsWithExistingPage,Could not import page with title 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info' because a different page already exists at this title. Consider moving this page to a different location and trying to import again.
+3ee3b361b1ab1c10e5d4b9a0eda27c2a,Support/Docs/BSM_Platform/Core/Announcements_and_General_Info,SkippingPageFileBecausePagePreviouslySkipped,Skipping importing page property 'mindtouch.idf#guideDisplay' for page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info' because the page could not be imported
+a1e46fbc9189532c617307c88ba302c9,Support/Docs/BSM_Platform/Core/Announcements_and_General_Info,SkippingPageFileBecausePagePreviouslySkipped,Skipping importing page property 'mindtouch.page#welcomeHidden' for page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info' because the page could not be imported
+7009351f1b8573bf2e5bc69f139d0563,Support/Docs/BSM_Platform/Core/Announcements_and_General_Info,SkippingPageFileBecausePagePreviouslySkipped,Skipping importing page property 'mindtouch#idf.guideTabs' for page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info' because the page could not be imported
+35fd40935d727dc8fd4cdec17c055249,Support/Docs/BSM_Platform/Core/Announcements_and_General_Info,SkippingPagePermissionsBecausePagePreviouslySkipped,Skipping importing page permissions for page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info' because the page could not be imported
+(null),Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Future_Direction_of_the_Coupa_Core_Platform_import_7a98de33abb4467f9325c47ca02f2cb6,PageMoveTargetParentFailedToImport,Could not move page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Future_Direction_of_the_Coupa_Core_Platform' to 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Future_Direction_of_the_Coupa_Core_Platform_import_7a98de33abb4467f9325c47ca02f2cb6' because the parent page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info' could not be imported
+6e2aa21b54aa9edb9ecc3a311b9ec46e,Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Future_Direction_of_the_Coupa_Core_Platform,SkippingPageCreationBecauseParentPagePreviouslySkipped,Could not import page with title 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Future_Direction_of_the_Coupa_Core_Platform' because a parent page ('Support/Docs/BSM_Platform/Core/Announcements_and_General_Info') previously failed.
+c04ef93d747d804501463c146d6a33f2,Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Future_Direction_of_the_Coupa_Core_Platform_import_7a98de33abb4467f9325c47ca02f2cb6,SkippingPagePermissionsBecausePagePreviouslySkipped,Skipping importing page permissions for page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Future_Direction_of_the_Coupa_Core_Platform_import_7a98de33abb4467f9325c47ca02f2cb6' because the page could not be imported
+(null),Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Platform_Features_by_Release_import_040efb9995a24bea937a0fa141bb3300,PageMoveTargetParentFailedToImport,Could not move page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Platform_Features_by_Release' to 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Platform_Features_by_Release_import_040efb9995a24bea937a0fa141bb3300' because the parent page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info' could not be imported
+bc3c8664bf302882a12ab9969e8b30af,Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Platform_Features_by_Release,SkippingPageCreationBecauseParentPagePreviouslySkipped,Could not import page with title 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Platform_Features_by_Release' because a parent page ('Support/Docs/BSM_Platform/Core/Announcements_and_General_Info') previously failed.
+d724acc1a47ca03a22f9748b70861810,Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Platform_Features_by_Release_import_040efb9995a24bea937a0fa141bb3300,SkippingPagePermissionsBecausePagePreviouslySkipped,Skipping importing page permissions for page 'Support/Docs/BSM_Platform/Core/Announcements_and_General_Info/Platform_Features_by_Release_import_040efb9995a24bea937a0fa141bb3300' because the page could not be imported
+(null),(unknown),FailedToImportItem,HTTP Status: NotFound(404)
+(null),(unknown),FailedToImportItem,HTTP Status: NotFound(404)
+39439ae7b41f53d22aa99d226e359cb4,Template:Custom/Controls/Slider,DekiScriptErrorDetected,"(), /content/body/content/body/pre[1], line 12, column 78: invalid XmlNode"
+8ba44d2953b409a0442f3380f7960156,Template:Custom/Controls/CoupaLearning,NonPortableLinkDetected,"(), /content/body/content/body/pre, line 7, column 18: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/155/Partner.png'"
+8ba44d2953b409a0442f3380f7960156,Template:Custom/Controls/CoupaLearning,NonPortableLinkDetected,"(), /content/body/content/body/pre, line 17, column 18: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/156/Customer.png'"
+181779d31a6fffb4a4652f173de555bc,Template:Custom/Views/PDFPageHeader,NonPortableLinkDetected,"(), /content/body/content/body/pre, line 2, column 28: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/1923/pdf_logo.png'"
+04121ef5f669000e97f466fa77c35b18,Template:Custom/Views/Footer/SectionContact,NonPortableLinkDetected,"(), /content/body/content/body/div/pre, line 7, column 73: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/267/icon_docs.png'"
+04121ef5f669000e97f466fa77c35b18,Template:Custom/Views/Footer/SectionContact,NonPortableLinkDetected,"(), /content/body/content/body/div/pre, line 15, column 74: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/240/iconSignin.png'"
+04121ef5f669000e97f466fa77c35b18,Template:Custom/Views/Footer/SectionContact,NonPortableLinkDetected,"(), /content/body/content/body/div/pre, line 23, column 75: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/265/icon_contact.png'"
+9d461b04e082c6869ef2e636a1ccc1dc,Template:Custom/Views/Footer/SectionFeatured,DekiScriptErrorDetected,"(), /content/body/content/body/pre, line 5, column 13: invalid XmlNode"
+914504e8aec8d51222692c07baa9c8d0,Template:Custom/Controls/HomepageBanner,DekiScriptErrorDetected,"(), /content/body/content/body/pre, line 3, column 87: invalid XmlNode"
+1fd1f62576ced20096acf0af144ddd98,Template:Custom/Views/Header/HeaderNav,NonPortableLinkDetected,"(), /content/body/content/body/pre[1], line 10, column 18: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/10558/white_logo2.png'"
+62f80e6f9e4c0542e7a3202add80849a,//Success,DekiScriptErrorDetected,"(), /content/body/content/body[1]/pre[1], line 9, column 16: invalid XmlNode"
+f0170161d212cfb8a47b6d5c8ff82175,//Trust,DekiScriptErrorDetected,"(), /content/body/content/body[1]/pre, line 10, column 16: invalid XmlNode"
+fbb75096015eefff1856b03c53e57ce9,//Implement,DekiScriptErrorDetected,"(), /content/body/content/body[1]/pre[1], line 11, column 4: invalid XmlNode"
+d55a8bdf8a732d6a5bb7420729693b21,//Integrate,DekiScriptErrorDetected,"(), /content/body/content/body[1]/pre[1], line 9, column 16: invalid XmlNode"
+7c6ce5b7893d54f1649a4cffb774de52,//Optimize,DekiScriptErrorDetected,"(), /content/body/content/body[1]/pre[1], line 9, column 16: invalid XmlNode"
+92dda7172414ded00710638b57208737,//Suppliers,DekiScriptErrorDetected,"(), /content/body/content/body[1]/pre[1], line 9, column 16: invalid XmlNode"
+(null),(unknown),FailedToImportItem,Cannot create invalid IDF structure.
+99d1b6496f4e04eae150f531ec99d104,//Suppliers/Integration_Resources/Compliant_Invoices/UK,FailedToImportItem,Skipped importing due to previous error
+8d74f868f99a8ab4d67e9f2ee1dafd59,//Suppliers/Integration_Resources/Compliant_Invoices/UK/01_Simple_Quantity_Based,FailedToImportItem,Skipped importing due to previous error
+ceb14cc2a3542fae323c077297a83fe4,//Suppliers/Integration_Resources/Compliant_Invoices/UK/02_Simple_Contract_Based,FailedToImportItem,Skipped importing due to previous error
+898a98a9937fd673afee9dbf3f49bf5d,//Suppliers/Integration_Resources/Compliant_Invoices/UK/03_Simple_Amount_Based,FailedToImportItem,Skipped importing due to previous error
+b9785e6ae2985cb3c777f9a82d971afa,//Suppliers/Integration_Resources/Compliant_Invoices/UK/04_Backed_Credit_Note,FailedToImportItem,Skipped importing due to previous error
+1ac7d8dd42ed6186847ab03168104b32,//Suppliers/Integration_Resources/Compliant_Invoices/UK/05_Unbacked_Credit_Note,FailedToImportItem,Skipped importing due to previous error
+6ecd9c0b465bebf659c8967885de5030,//Suppliers/Integration_Resources/Compliant_Invoices/UK/06_Invoice_with_Payment_Term,FailedToImportItem,Skipped importing due to previous error
+3db5891e23572a03c7ba930e8d64ff97,//Suppliers/Integration_Resources/Compliant_Invoices/UK/07_Multiline_Invoice,FailedToImportItem,Skipped importing due to previous error
+21303abae37c184c8ada4e6a142834eb,//Suppliers/Integration_Resources/Compliant_Invoices/UK/08_Header_Taxation,FailedToImportItem,Skipped importing due to previous error
+0d43438f2e9901b765bd8cdf2ff4ddb6,//Suppliers/Integration_Resources/Compliant_Invoices/UK/09_Line_Level_Taxation,FailedToImportItem,Skipped importing due to previous error
+99036546dcfde98a79056571861152b9,//Suppliers/Integration_Resources/Compliant_Invoices/UK/10_Discount,FailedToImportItem,Skipped importing due to previous error
+9da3b11c30dab3b2b7eb7d07ac81454a,//Suppliers/Integration_Resources/Compliant_Invoices/UK/10_Header_Charges,FailedToImportItem,Skipped importing due to previous error
+878500b5bd8c40eaf52ceb8b5dba761e,//Suppliers/Integration_Resources/Compliant_Invoices/UK/12_Extrinsic,FailedToImportItem,Skipped importing due to previous error
+8d6ac5d80f10dad9fb4c08acecfbcb7c,//Suppliers/Integration_Resources/Compliant_Invoices/UK/13_VAT_Exempt,FailedToImportItem,Skipped importing due to previous error
+189b1a44c7c6247fe562cf81f25bebf5,//Learn,DekiScriptErrorDetected,"(), /content/body/content/body[1]/pre[1], line 11, column 13: invalid XmlNode"
+407d0a0e4dc2dd64d51818ec7fb213b3,//Optimize/Halftime,DekiScriptErrorDetected,"(), /content/body/content/body[1]/pre[1], line 9, column 16: invalid XmlNode"
+e94eebe88a0cc5c2fed7978ae09090d8,//Learn/Self-Directed_Learning,NonPortableLinkDetected,"(), /content/body/content/body[1]/div[3]/pre, line 5, column 18: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/156/Customer.png'"
+e94eebe88a0cc5c2fed7978ae09090d8,//Learn/Self-Directed_Learning,NonPortableLinkDetected,"(), /content/body/content/body[1]/div[3]/pre, line 15, column 18: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/156/Customer.png'"
+c55cfa41c7a57ffc1fb1ba7822bfa474,//Sandbox/Writer_Sandboxes/Llamasoft_Docs/Sample_Guide_1/Sample_Article,NonPortableLinkDetected,"(), /content/body/content/body/div[2]/div[3]/pre, line 7, column 18: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/155/Partner.png'"
+c55cfa41c7a57ffc1fb1ba7822bfa474,//Sandbox/Writer_Sandboxes/Llamasoft_Docs/Sample_Guide_1/Sample_Article,NonPortableLinkDetected,"(), /content/body/content/body/div[2]/div[3]/pre, line 17, column 18: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/156/Customer.png'"
+8eb8f38d78e196170a4885b1cc5ef562,//Sandbox/deprecated/Learn,DekiScriptErrorDetected,"(), /content/body/content/body[1]/pre[1], line 10, column 16: invalid XmlNode"
+7c08f924bd3143bf2338c1e8daa64e15,//Sandbox/deprecated/Learn/Self_Directed_Learning,NonPortableLinkDetected,"(), /content/body/content/body[1]/div[4]/pre[1], line 9, column 18: A link diagnostic of type 'FileLinkByFileId' was found: '/@api/deki/files/156/Customer.png'"
+(null),(unknown),FailedToImportItem,Cannot create invalid IDF structure.
+f5b0abc6f79c457d43a008963a893138,//Sandbox/deprecated/Expense_Enhancements/Expense_Attendee_Facial_Recognition,FailedToImportItem,Skipped importing due to previous error
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '0b3c14aa733049fada4163a3042ad60a'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'a7ea6a6771687dbacc34d8292168126b'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '2ce437665b3b954d72603b941f1131a3'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '3d6b9ddfa202524068d406038ff1c708'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '08c30f05aa823cc2611dc8868dc2d7c6'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '93fcdb4e0b33c6643db3a4f0763d5b52'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'b529276e66aedd573ca4ac16194a1a63'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '8e74f26e9c58e9bf2af17fa3cad200bf'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'fe8481575b9cf42c0c27ce39ceac9d74'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '4604cafea60a2ee865b6ef1bbc8e18be'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '2d511cae92e560a84cb5a91f56c1afc8'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '4ed198d3c4e973868992a4a411d22863'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'db7a41ff6d0c6a2d33bc7b1b3a86593e'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '6e1f18017170328fddd22dbc0d8e4d49'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '81fb4bb496eb69ef5bd9901da304d8aa'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '1f7471e613633716fe2a2e5c42329ab0'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '2ec8f870367be09de15876441bb62b9b'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '631125653022cb83303c62e8f4597706'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '4b95c5518d956c6b1c3f83609b72c0ff'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '0897504de0fba76cb6e2b9656c3772f0'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '2ea630d1e1a08dd163e2424feb938e4b'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'd1124dbb341c97031d95deb09319fd75'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '17e3e021725df4e8197c1186046ccd65'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '7dd91202494cfb6263ebf8b91092b432'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '4bab999f7f6e93a172e4faf2b2e48132'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'aa5f14b2b625fea950ec16b780b267ce'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '8e6ba7040b99429ff9f801775340e3b7'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '80983416cd6fca2c9e21e0d97724c89a'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'fa3423a6c406aa9686e38bee3a1528ec'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '38ef0f4831832c5f256be7ed43ebcda3'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '30481c2e40ee5e11c7e021bb0cdaec06'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'ca5e799c6543108dfce6a143e01a3f48'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '7ccfe5b21b8aab1d80792c806d84d637'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'c3e4e9e77a2706f4aa35e6e90ead2834'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '90793bd3769e36c639632329fc85f78c'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '181b143a585ff20b2e16c1584185fce6'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'ba408e038215246f3addac466d39f2e6'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '8adbc3d29078c8bf8c92825ecaf2346d'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '2f3ddeb0df656d22209a11c1863b2a3e'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'f3667adaa32898b3fd17001725eee2b4'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'a497c77fd01a9b922991e7a9dd3413ca'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'c8ac5db0b42e3d000c8a17f47fabdb7a'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '725d94f634c4445ffa44e94610d692b8'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'e3fb9bc05535e3d6bf796faaabb379e4'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'd91afd4e56586173569e7361512e4513'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'e88f1caac98614aad7d95dc34bfbd848'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'ab5f2b4f8bc0be5a1c6e28a090f0ab04'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '224fde899a32a712c94ecabafcfdd0df'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'cbf79686c20afa1d17171eddf4828240'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '14a5d76a0626e4a8ca5c0e1865f9d443'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '5b5aa90e262d80fca7073b4982ccd4df'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '297e1732fb45ce81340be233f8d0823f'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '5d6fc57e23f14da388d663882ed057d0'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'f3f8ea1bc5f18925fd29818bdaa446fb'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '248181248040c6ef58034ada0722bc61'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'ae1cfbd89412e4f2ae5063ac86a0e3f5'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '07a42e62ea81f80fbb47cb6c62e0f4a2'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'f9117bfbc2220c470c47528a1ac1b1f2'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '0b64eb0664a55bedac5bb41fd75e455f'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '98b69345be1faeedc80dccfdd8d656a3'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'c6a061f89f7613ce507762b323d49ba9'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'fe37cc2494a85b3501b446bf8e03e8fc'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '76599853ceeb111e923a5615eba659af'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '410d2812aa76e6f11afd94e4ad40f926'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'bb7edbac89783b1fb00085d4e8c9a7cb'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'ea8a0708cada4b29d9210d6406b595ad'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '67bfb773f8ecffa094bb319731a39793'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '6d4d0a6d57da747f3287ce0d2d0f07b9'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'bcbdc8e95669e2f96c6dbb2dd04435b0'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '1fa092d2218d45a914c66eda6417dfdb'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'ca0e79410abd5725b834d64f29d408a1'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '2e14ae104765c0faf0a23b143531a36d'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '61091d129d31296d2e2a71984491351e'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '19147485e10a52fa0d9bf1a73f0d5c97'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '8264ac37321f708ece2b3b189d3b2074'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '60a2bd1ce013dd57f02229e962f0aff1'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '36f88e40ff789903fa1676fe722f2040'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '6d24f879fceb3c03ee4a5c013c4dda8c'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '717a60d6fef0faea2f28c4c7f09276f7'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'e7c0e88652d0e7ea95835bbbb04fab9b'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '546a00062926228c512162f8e500e203'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'bc70b21da035b794234ed9da3cd36e6c'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'bcba95b84ada77f00485324ea19d64d2'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'e91c963f9df890153f3f860336fad9c6'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '21635c18e10baedc389f53dc28efc576'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '1de838eda4fc0640ffa14688036514b0'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'ff72e4d0c3cef75adf2bcdfced2526c8'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'dd80c274c8751e488befb9aba2a22318'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '9c00361aa47047d95a9d8a47c4871c38'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'a46fff11a8631fb4ee56538f3b87a938'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '6455d5d01e10121b95b5ad185032000e'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '67c4d576a7e10ebd842fc2ae4f9fcca1'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'b0c74467e410b388b9c40018f1cbef70'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '0fe4f77daa09dee514391b16fa1854a4'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'ffc5b17e2a1e8bef34ea8f50c9498f27'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '9acff762d37d6efef8354232de119be9'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'ebc64423e21b047977b789e8f7c1c2f3'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '59f6b519d0e32be1ae3002830dae3505'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '3e5f8d5bd2362d062acea4a200bc271b'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '26a1f2d0141be1f728594732a4c88339'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '885fb71e6fa0900de8730fa3e7e03321'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '908e10bee73e3f03a7df769c733ef549'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'c5ca51951c6a86c3674a2b0ceaf34d95'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'b58867356cf64d90f45f2d6bd49b6636'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '6513d7f3418860fb9ef43b10dffd35ff'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '463a7f9c899b57bc907361c304e043f9'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem 'fb0031d6a98c0c7aebd26545f7d89740'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '1786b9b2f30a0d5e9add6f7b4ca2882c'
+(null),(unknown),MindTouch.Deki.ImportExport.Import.ImportException,Problem processing ManifestItem '232e805c5c26420024aae18ada1e3291'
